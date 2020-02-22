@@ -2,4 +2,4 @@ Hello, World! Welcome to the GIT tutourial.
 
 My Tutorial is good and very help full.
 
-Removing some information from this file. Thanks Ravikesh
+Removing Successfull. Thanks Ravikesh
